@@ -1,0 +1,4 @@
+repository "poo2bi/poo2bi@4673937506260@cloud"
+  path "/"
+    br "/main"
+    co "/main"
