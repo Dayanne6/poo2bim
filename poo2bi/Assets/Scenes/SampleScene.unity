@@ -929,7 +929,7 @@ GameObject:
   - component: {fileID: 1342912834}
   - component: {fileID: 1342912833}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Iniciar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1050,7 +1050,7 @@ GameObject:
   - component: {fileID: 1344495654}
   - component: {fileID: 1344495653}
   m_Layer: 5
-  m_Name: Button
+  m_Name: "cr\xE9ditos"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1551,7 +1551,7 @@ GameObject:
   - component: {fileID: 1940052682}
   - component: {fileID: 1940052681}
   m_Layer: 5
-  m_Name: Button
+  m_Name: "configura\xE7\xF5es"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
